@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Av6x6E/OYkY5If21aVF4REOnUgOnws/GF8o6z+f5X+NOPdr4tk2NXG/2TPX5w4D/970RB8Mt8DyK0bMkeup8ow==",
+  "success": true,
+  "projectFilePath": "/Users/brysonlaney/Documents/GitHub/BRYSONLANEYcreative/BRYSONLANEYcreative.csproj",
+  "expectedPackageFiles": [
+    "/Users/brysonlaney/.nuget/packages/raylib-cs/4.2.0.1/raylib-cs.4.2.0.1.nupkg.sha512",
+    "/Users/brysonlaney/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

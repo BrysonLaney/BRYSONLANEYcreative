@@ -1,0 +1,8 @@
+points to add:
+    points will be for every 4
+    points will trigger the 4 finger meme dude
+    every 16 points it will increase in speed
+
+    upon death it will start becoming insanely annoying
+    it will change window size, and play mombo number 5 or something
+
